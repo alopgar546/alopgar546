@@ -40,7 +40,7 @@ Me gusta construir soluciones sencillas, bien probadas y fáciles de desplegar.
 
 ## 📫 Contacto
 - 💼 [LinkedIn](https://www.linkedin.com/in/alfonso-lopez-garcia-678707365)
-- 🌐 [Portfolio](https://github.com/alopgar546/alopgar546.github.io)
+- 🌐 [Portfolio](https://alopgar546.github.io/)
 
 
 ---
