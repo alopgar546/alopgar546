@@ -16,8 +16,8 @@ Me gusta construir soluciones sencillas, bien probadas y fáciles de desplegar.
 ## 🛠️ Tecnologías y herramientas
 | Área           | Tecnologías                                |
 |:-------------- |:------------------------------------------ |
-| Backend        | Java                                       |
-| Frontend       | HTML · CSS · JS · PHP                      |
+| Backend        | Java · PHP                                 |
+| Frontend       | HTML · CSS · JS                            |
 | Bases de datos | PostgreSQL · MongoDB                       |
 | DevOps         | Docker · CI/CD                             |
 | Testing        | JUnit                                      |
@@ -40,6 +40,7 @@ Me gusta construir soluciones sencillas, bien probadas y fáciles de desplegar.
 
 ## 📫 Contacto
 - 💼 [LinkedIn](https://www.linkedin.com/in/alfonso-lopez-garcia-678707365)
+- 🌐 [Portfolio](https://github.com/alopgar546/alopgar546.github.io)
 
 
 ---
